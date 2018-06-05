@@ -1,0 +1,26 @@
+<form name="frm">
+
+<table width="100%" >
+<tr align=center>
+<p align=center class="theme4">  Enter User-Id  </p>
+<td align=center width="100%"> 
+<input type=text name="id">
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr align=center>
+<p align=center class="theme4">  Enter Password </p>
+<td align=center width="100%"> 
+<input type=text name="pass">
+</td>
+</tr>
+<tr align=center rowspan=2>
+<td  width="100%">
+<input type=submit value="Login" onClick="check()">
+</td>
+</tr>
+</table>
+
+</form>
